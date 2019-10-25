@@ -8,7 +8,7 @@
     <br />    
     <br />
     ·
-     <a href="#">View Demo</a>
+     <a href="https://rawcdn.githack.com/genzaraki/applepageclone/70d93117e96c1e84771ac7bf52fa3d5adde7a1d9/index.html">View Demo</a>
     ·    
   </p>
 </p>
