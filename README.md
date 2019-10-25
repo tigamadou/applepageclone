@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-   <h3 align="center">Apple Page Clon</h3>
+   <h3 align="center">Apple Page Clone</h3>
 
   <p align="center">
     A simple clone of the old apple Page.
