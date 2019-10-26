@@ -16,6 +16,7 @@ header {
 }
 
 .container {
+  min-width: 1440px;
   max-width: 1440px;
   margin: auto;
 }
@@ -43,6 +44,7 @@ header {
 
 .navbar-start {
   flex: 1;
+  text-align: center;
 }
 
 .navbar-center {
@@ -164,7 +166,7 @@ header {
 .pro-elment {
   height: 200px;
   background-size: cover;
-  background-repeat: no-repeat;
+  
 }
 
 .p1 {
@@ -184,10 +186,11 @@ header {
 }
 
 footer {
-  padding-top: 30px;
+  padding-top: 15px;
   font-size: 10px;
   max-width: 1000px;
-  margin: auto;
+  margin: 30px auto;
+  
 }
 
 footer a {
