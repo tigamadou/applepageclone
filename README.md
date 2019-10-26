@@ -1,6 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
+   ![Screenshot Image](images/screen-shot.png)
+   
    <h3 align="center">Apple Page Clone</h3>
 
   <p align="center">
@@ -8,7 +10,7 @@
     <br />    
     <br />
     ·
-     <a href="https://rawcdn.githack.com/genzaraki/applepageclone/70d93117e96c1e84771ac7bf52fa3d5adde7a1d9/index.html">View Demo</a>
+     <a href="https://rawcdn.githack.com/genzaraki/applepageclone/d014645758ba0df3a0eb989642a55251e5a31d64/index.html">View Demo</a>
     ·    
   </p>
 </p>
@@ -26,7 +28,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Screenshot Image](images/screen-shot.png)
   I clone this page for  the Microverse Project and according to the required specifications.  
 
 
