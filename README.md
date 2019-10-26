@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-   ![Screenshot Image](images/screen-shot.png)
+![Screenshot Image](images/screen-shot.png)
    
    <h3 align="center">Apple Page Clone</h3>
 
