@@ -1,14 +1,17 @@
 <!-- PROJECT LOGO -->
+![Screenshot Image](images/screen-shot.png)
+
 <br />
 <p align="center">
-   <h3 align="center">Apple Page Clon</h3>
+  
+   <h3 align="center">Apple Page Clone</h3>
 
   <p align="center">
     A simple clone of the old apple Page.
     <br />    
     <br />
     ·
-     <a href="#">View Demo</a>
+     <a href="https://raw.githack.com/genzaraki/applepageclone/home_page_feature/index.html">View Demo</a>
     ·    
   </p>
 </p>
@@ -26,7 +29,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Screenshot Image](images/screen-shot.png)
   I clone this page for  the Microverse Project and according to the required specifications.  
 
 
