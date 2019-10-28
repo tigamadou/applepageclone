@@ -11,7 +11,7 @@
     <br />    
     <br />
     ·
-     <a href="https://raw.githack.com/genzaraki/applepageclone/home_page_feature/index.html">View Demo</a>
+     <a href="https://rawcdn.githack.com/genzaraki/applepageclone/7458f2dc520c98c02f66e021fc6238e63b92eac9/index.html">View Demo</a>
     ·    
   </p>
 </p>
