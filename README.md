@@ -7,7 +7,7 @@
    <h3 align="center">Apple Page Clone</h3>
 
   <p align="center">
-    A simple clone of the old apple Page.
+    A simple clone of the old apple Page. Build with Html and Css.
     <br />    
     <br />
     ·
